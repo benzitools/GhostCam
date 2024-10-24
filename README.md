@@ -16,6 +16,14 @@
 
 ---
 
+## 📺 Screenshot (Click the image to watch the video on YouTube):
+
+[![Screenshot](https://github.com/benzitools/GhostCam/blob/main/Screenshot/1.png)](https://youtu.be/qr3TabjQJZ0)
+
+[![Screenshot](https://github.com/benzitools/GhostCam/blob/main/Screenshot/2.png)](https://youtu.be/qr3TabjQJZ0)
+
+---
+
 ## 🛠️ **How to Use**:
 1. Ensure your device is rooted.  
 2. Install the **GhostCam** app on your Android device.  
