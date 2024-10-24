@@ -18,9 +18,9 @@
 
 ## 📺 Screenshot (Click the image to watch the video on YouTube):
 
-[![Screenshot](https://github.com/benzitools/GhostCam/blob/main/Screenshot/1.png)](https://youtu.be/qr3TabjQJZ0)
+[![Screenshot](https://github.com/benzitools/GhostCam/blob/main/Screenshot/1.png)](https://youtu.be/PU6n8ACHq_I)
 
-[![Screenshot](https://github.com/benzitools/GhostCam/blob/main/Screenshot/2.png)](https://youtu.be/qr3TabjQJZ0)
+[![Screenshot](https://github.com/benzitools/GhostCam/blob/main/Screenshot/2.png)](https://youtu.be/PU6n8ACHq_I)
 
 ---
 
