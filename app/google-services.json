@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "482772066915",
+    "firebase_url": "https://gcam-cf1d9-default-rtdb.firebaseio.com",
+    "project_id": "gcam-cf1d9",
+    "storage_bucket": "gcam-cf1d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482772066915:android:cf96f7a1258115be008e56",
+        "android_client_info": {
+          "package_name": "com.example.ghostcam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhfq5lKtpvZ9rjY9rtZ5D9yuWZWbR6N0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

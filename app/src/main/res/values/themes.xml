@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.VCAM" parent="android:Theme.DeviceDefault.Light">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

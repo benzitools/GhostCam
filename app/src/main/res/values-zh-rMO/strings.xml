@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GhostCam</string>
+    <string name="click_to_go_to_repo">Click to go to the repository</string>
+    <string name="description">Please visit the online repository to check usage instructions, app updates, and report defects</string>
+    <string name="Warning">Do not use for illegal purposes, you are responsible for all consequences!</string>
+    <string name="switch1">Warning when lacking access permissions</string>
+    <string name="switch2">Disable GhostCam</string>
+    <string name="switch3">Play sound</string>
+    <string name="switch4">Private mode (Always on)</string>
+    <string name="switch5">Disable notifications</string>
+    <string name="permission_lack_warn">No permission</string>
+    <string name="permission_description">Permission to access local directories is used to set configuration files. If denied, you will need to manually set the configuration files.</string>
+    <string name="positive">Confirm</string>
+    <string name="negative">Decline</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GhostCam</string>
+    <string name="click_to_go_to_repo">click to access the repository</string>
+    <string name="description">Please visit the online repository to check the latest updates, user manual, and report bugs</string>
+    <string name="Warning">DO NOT USE FOR ILLEGAL PURPOSES!! YOU ARE FULLY RESPONSIBLE FOR ALL CONSEQUENCES!!</string>
+    <string name="switch1">Warning when lacking access permissions</string>
+    <string name="switch2">Disable GhostCam</string>
+    <string name="switch3">Play sound</string>
+    <string name="switch4">Private mode (Always on)</string>
+    <string name="switch5">Disable notifications</string>
+    <string name="gitee" translatable="false">Gitee platform (Faster access in Mainland China)</string>
+    <string name="permission_lack_warn">Lacking access permissions</string>
+    <string name="permission_description">Local storage access is used to set up configuration files. If denied, you will need to set up the file manually.</string>
+    <string name="positive">Agree</string>
+    <string name="negative">Decline</string>
+</resources>

@@ -1,0 +1,5 @@
+<!-- res/drawable/cursor_color.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:width="2dp" /> <!-- Độ rộng của con trỏ -->
+    <solid android:color="@android:color/holo_blue_dark" /> <!-- Màu xanh dương cho con trỏ -->
+</shape>
