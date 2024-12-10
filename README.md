@@ -1,10 +1,5 @@
 
 # ⚙️ GHOSTCAM - VIRTUALCAM - ANDROID  
-## 📤 V10.24
-
-**📤 UPGRADED TO V11.24 [2024.11.01]**
-
-**📤 UPGRADED TO V12.24 [2024.11.04]**
 
 ---
 
